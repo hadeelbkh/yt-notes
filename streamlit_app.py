@@ -10,8 +10,8 @@ from datetime import datetime
 
 st.set_page_config(page_title="YouTube Notes Generator - Fixed", page_icon="📝", layout="wide")
 
-st.title("📝 YouTube Notes Generator - Fixed Version")
-# st.write("This version fixes the ChromaDB compatibility issue!")
+st.title("📝 YouTube Notes Generator")
+st.write("Made with ❤️ by Hadeel Bkhaitan")
 
 def extract_video_id(url_or_id):
     if not url_or_id:
@@ -111,12 +111,6 @@ with st.sidebar:
         height=100
     )
     
-    try:
-        results = chroma_collection.get()
-        total_videos = len(results['ids']) if results['ids'] else 0
-        st.metric("Videos Processed", total_videos)
-    except:
-        st.metric("Videos Processed", "0")
 
 # Main content
 col1, col2 = st.columns([1, 1])
