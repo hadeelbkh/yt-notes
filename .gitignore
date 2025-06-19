@@ -4,4 +4,6 @@ __pycache__/
 *.sqlite3
 *.bin
 *.parquet
+.streamlit/
+yt-env/
 index/
