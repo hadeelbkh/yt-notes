@@ -1,0 +1,542 @@
+After working in AI and machine learning
+for over four years, I want to share
+some of the resources and books and
+courses that have really helped me in my
+journey. As there are quite a few, I'm
+going to break them down into the
+following categories. Programming and
+software engineering, maths and stats,
+machine learning, deep learning and
+LLMs, and finally AI engineering. Let's
+get into it.
+If you want to work in AI, you have to
+have good software engineering skills
+and also good programming skills. This
+opinion is also backed up by Greg
+Brockman, who's the current OpenAI CTO.
+As the AI field is quite new, the de
+facto language is still kind of up in
+the air. However, in my opinion, your
+best bet is to learn Python. Python is
+the one that's most commonly used
+nowadays when building any AI
+infrastructure project. Majority of AI
+jobs have been spun up from traditional
+machine learning ones and in machine
+learning the lingua franker as you can
+say is Python and that's not changing
+anytime soon. However, I will say that
+the most popular current AI role is the
+AI engineer which is actually a lot more
+closer to software engineering than it
+is to machine learning engineering. So
+it may well be worth learning a back-end
+language like Java, Go or Rust. I
+personally use Rust in my day job. So we
+can see how it's not just Python but
+other languages may be used a lot in the
+future for most AI jobs. But I still
+recommend that you start with Python
+because like I said a lot of the machine
+learning infrastructure and libraries
+are built around the Python ecosystem
+and I don't see that changing for at
+least half a decade now. There are many
+courses, books, videos, you know
+whatever to learn Python. But by far the
+best teacher if you want to learn Python
+or any programming language or literally
+anything for that fact is practice. So,
+even though I'm going to give you some
+resources that you can use to learn
+Python, don't worry too much about them
+and in fact everything in this video,
+just use the resources I'm going to give
+you to just learn the fundamentals and
+then start implementing. And that goes
+for anything in the machine learning, AI
+or data science field. Anyway, I
+digress. And my main recommendations for
+Python are the learn Python course by
+free code camp. This is the first ever
+Python course I took. It's 4 hours long
+and teach you all the basics. I really
+recommend it. Like I said, it's what I
+got started with and it served me well
+so far. The second one is the Python for
+everybody specialization. This is
+probably the most well-known Python
+course, at least on the Corsera
+platform, and it's probably for good
+reason. People seem to really like it.
+I've actually personally never taken it,
+but I hear such good things about it,
+and like I said, it's probably the most
+popular course out there, probably for
+good reason. I also used Hacker Rank and
+Leak Code just to get some hands-on
+experience on solving problems using
+Python. And it's also very good for
+interview practice. Another resource I
+use quite a lot is neat code. I use this
+to learn data structure algorithms and
+also system design which are really
+fundamental topics you need to
+understand in software engineering if
+you want to land a job. And finally,
+another course that I've taken in kind
+of like drabs is the Harvard CS50
+introduction to computer science. It is
+literally like the best course out there
+if you literally know nothing about
+computer science. It'll teach you all
+the fundamentals, teach you some
+languages as well. So, I really
+recommend it if you're a complete
+beginner.
+Even though many people will argue that
+you don't really need to know the
+underlying maths to become or work in AI
+because all the foundational models, you
+don't really build models, right? You
+kind of just inference them or you
+import them in and you use them. So, you
+don't really need to know what's going
+on under the hood. Now, personally, I
+don't really subscribe to that idea. I
+think if you want to be a top AI
+practitioner, then you should have some
+understanding behind how these LLMs and
+all these other generative models work
+under the hood. And to understand how
+these models work under the hood, you
+need to study the fundamental maths. And
+in my opinion, all you need is these
+following three resources. The first one
+is a practical statistics for data
+science textbook. I've recommended this
+book so much because it's probably the
+best book if you want to learn stats for
+data science, maths, or machine learning
+I should say, and AI. It literally
+covers everything and it's specifically
+applied for those fields and it gives
+you hands-on examples in Python. So, by
+far is the best book you can get if you
+want to learn statistics in those
+fields. The second one is mathematics
+for machine learning. Again, this one is
+more on the linear algebra and calculus
+side. So, in general, if you want to
+learn AI or machine learning, they're
+kind of three areas you need to study.
+Stats, linear algebra, and calculus. The
+first textbook, the one I recommended,
+will study the stats. And the second
+one, mathematics for machine learning,
+will give you the linear algebra and
+calculus side. It's quite dense, so I
+don't recommend reading the whole book,
+but if you learn everything in that
+textbook, then your math skills will be
+more than sufficient for a lifelong
+career in AI and machine learning. And
+finally, I recommend the course
+mathematics for machine learning and
+deep learning specialization. This
+course is actually created from deep
+learning AI who created the machine
+learning and deep learning
+specializations which are by far the
+best courses on machine learning and
+deep learning out there. So I've heard
+really good things about this course and
+if it's anything like those other ones
+they've created then it's by far in no
+way probably the best mathematics course
+you can take because it's also targeted
+towards those fields. That's the main
+thing here. We're not learning arbitrary
+maths learning maths that's directly
+targeted to AI and machine learning. So,
+we're learning all the relevant skills,
+not just everything in the field
+because, well, I mean, there's math
+degrees out there, right? So, hey, take
+those three resources. They're by far
+and away the best ones, and it'll cover
+literally all your bases. And like I
+said, it's only three of them. So, you
+get everything just using a handful full
+of courses.
+Now, let me give you a quick history
+lesson. So, what most people refer to as
+AI nowadays, it's not actually AI. is
+actually something called generative AI
+which is AI that generates images,
+pictures, videos, etc. Like chat GPT, it
+generates text, right? However, AI as a
+concept has been around for centuries
+and the current state of AI can actually
+be dated back to the 1950s when the
+first neural network was proposed. It
+even predates that with Alan Cheuring
+coining the cheering test on the idea of
+computer science and thinking machines
+during the Second World War. Anyway, my
+point is that AI is so much broader than
+people may think it is. And to be really
+proficient in AI, you also have to learn
+machine learning to a really good level.
+The following list I'm going to give you
+will cover all your fundamental
+knowledge you need in machine learning.
+But if you want to learn more
+specialized skills like time series
+analysis, convolutional neural networks,
+reinforcement learning, let me know and
+I'll give you some resources that I've
+used in the past and also have been
+recommended by other people. So the
+first book I recommend is the hands-on
+ML with psych learn tensorflow and
+carers textbook. I've recommended this
+book so many times. If you could
+literally get only one book for your
+whole AI machine learning career, it
+would be this one. This teaches you
+pretty much everything. All the
+fundamentals, how to apply them, how to
+code in Python, like how to implement
+all these packages in Python. And it
+even touches upon reinforcement
+learning, LLMs and autoenccoders, like
+all these complex things which again
+they're more of a not fundamental level.
+But this book literally covers
+everything. So by far and away, if
+there's one book you would want to get
+from you want to buy watching this video
+or course watching this video, this is
+the book. You know, it's linked in
+description below with like every other
+textbook, but I highly recommend it. You
+can probably find free versions online
+if you wanted to. I just prefer having a
+physical copy. But by far and away the
+hands-on ML with scikitle learn
+tensorflow and caras textbook is the
+best book on machine learning and AI you
+can get. The second resource I recommend
+is the one that I took right at the
+beginning of my machine learning journey
+which is the machine learning
+specialization course. It's taugh by
+Andrew and is by far and away like
+taught by the best one of the best AI ML
+researchers and it's probably one of the
+best courses out there. It's probably
+one of the mo the oldest courses. I
+think it originally came out in 2012,
+but it's phenomenal. I really recommend
+it. I took it and it's done wonders for
+my career. I highly like I said I can't
+recommend it enough. It's also been
+revamped and it's in Python now. When I
+took it was back in Octave or Mat Lab.
+So, it's even more relevant because you
+actually be using Python. You'll be
+using more upto-date packages and it
+teach you the theory and also the
+notebooks. It's just amazing. So, again
+also really recommend this course.
+Another one which is more for like
+bedside reading is the 100page machine
+learning book by Andre Bookov. Like I
+said, this one is more like a bedside
+reading in that it's only 100 pages. It
+won't go into all the details and depth
+like a bigger textbook will do, but
+it'll cover like the overall concept if
+that makes sense. So, it's really useful
+to have as a reference text or if you
+want to learn a new topic, you can open
+it up, find that a section and then you
+can research more about it online or
+however you want to do it. But this book
+is really useful like I said to have
+like a reference book and also if you
+can look through that textbook and know
+everything in it then your knowledge is
+great. And the final one is the elements
+of statistical learning. This one is a
+bit more kind of traditional because
+it's more on statistical learning than
+machine learning but the two are very
+interlin. This one is very dense and
+like I said it's more of a traditional
+book. It's a bit drier but it goes into
+a lot of the theory really really deep.
+So if you want to learn a topic to a
+really good understanding particularly
+if it's more of a traditional machine
+learning algorithm then this book is
+highly recommendable for you. Now
+suppose you want a proper and thorough
+boot camp to learn machine learning. In
+that case I recommend zero to masteries
+complete AI machine learning and data
+science boot camp who are kindly
+sponsoring this video. It will teach you
+how to become a fullyfledged machine
+learning engineer this year and will
+cover topics like data analysis, data
+science, machine learning, Python, and
+pretty much everything else you need to
+secure a job in machine learning and AI.
+The main reason I recommend this boot
+camp and course is their focus on
+building projects. Like I said earlier,
+the only real way to learn something is
+through consistent practice and building
+and getting hands-on experience. This
+course will teach you to build
+applications and models like heart
+disease detection app, a bulldozer price
+predictor and a dog breed image
+classifier and many many more. There are
+also many other courses and career paths
+on their platform. So I recommend
+checking out and seeing what you would
+like to take and what will help you on
+your journey. But the best part is their
+community of over 500,000 students and
+instructors who will help answer any
+questions and help you prepare for a
+career in this field. I've literally
+never seen any other platform have
+anything like this. There's a reason
+that Zero to Mastery have gotten over a
+thousand students from zero to getting
+hired, including top companies like
+Meta, Google, and Nvidia. I will leave
+the AI, machine learning, and data
+science career path in the description
+below, as well as the whole course
+catalog for you to check out.
+Deep learning is where all these
+generative AI algorithms come from. So
+you'll truly understand how things like
+LLM, diffusion models, and transformers
+work as well as all the other
+foundational models under the hood. I
+will first begin by learning PyTorch
+because if you want to work in AI, you
+should at least know one deep learning
+library. Now in the field, there's kind
+of two main libraries, TensorFlow and
+PyTorch. I personally recommend PyTorch
+because it's used more and by more
+research companies and more papers have
+written in PyTorch and it's kind of
+superseding as a de facto deep learning
+library over TensorFlow particularly in
+recent years. PyTorch was used in about
+77% of research papers published in 2021
+and 92% of hugging face models are
+exclusive to PyTorch. So like I said the
+general trend is in the direction of
+PyTorch. So if you're choosing between
+PyTorch and TensorFlow, I personally
+suggest you go with PyTorch. Now after
+studying PyTorch, I recommend you take
+the deep learning specialization. This
+is the follow on from the machine
+learning specialization also taught by
+Andrew and it'll cover all the things
+like convolutional neural networks,
+recurrent neural networks, and even
+touch upon LLMs. So it'll teach you all
+the deep learning stuff, which is what
+you need if you want to understand how
+well deep learning and all these more
+sophisticated models really work. After
+we've got the fundamentals in deep
+learning, I'd then recommend taking the
+introduction to LLM's video by Andre
+Kapathy. He's probably the leading
+research in AI at the moment and this
+1hour video will basically give you a
+highle overview of where we currently
+are in the Gen AI particular LLM space
+and it'll set the scene for you and
+basically just make you understand more
+about the industry and where it's
+heading. After watching that hour video,
+I will then take Andre Kapathi's neural
+networks zero to her course. This course
+will basically get you to build PyTorch
+or at least how PyTorch works under the
+hood from scratch. So, it's a really
+really good educational course. It'll
+start quite simple with just getting you
+to basically make a neural network from
+scratch. But at the end, you're making a
+whole GPT from scratch. So, you go from
+literally zero to hero real quick all
+the way from neural networks to building
+GPT which is like the state-of-the-art
+in the moment from scratch. No
+libraries, literally just raw numpy
+arrays. So, it's really really good.
+Again, it kind of can be a bit
+technically hard, but if you did a whole
+course and really understand what's
+going on, then your foundational
+knowledge behind LLMs and diffusion
+models and all these sophisticated
+algorithms would be extraordinary. And
+finally, if you want a textbook, then I
+recommend the hands-on language models
+textbook by Jay Alamar. For those of you
+who don't know, Jay Alamar is kind of
+probably wrote the most famous blog post
+on transformers. It's called the
+illustrated transformer and it's
+probably the best explanation about
+transformers and what he did is
+basically took that blog post and made a
+whole book out of it obviously adding
+other things. So this book is probably
+by the best guy who can explain
+transformers to you and he wrote a
+textbook. So if you really want to
+understand things intuitively then this
+textbook I by far and way recommend and
+it's probably the only textbook at the
+moment that's like really up to date on
+LLMs because like I said it feels quite
+new. But if you are looking for textbook
+then the hands-on large language models
+is the one I recommend you get.
+So, if you've taken all the courses and
+books I've recommended so far, you have
+a really good understanding of the
+current AI landscape, particularly when
+it comes to things like LLMs and
+Transformers and you have that
+theoretical but also hands-on knowledge
+as well. So, you're up to date with all
+the latest going ons and you understand
+what AI currently means in today's
+society. Now, the real value doesn't
+come from just understanding these
+systems. It's being able to deploy these
+models and solutions to production so
+they generate business value, customer
+value, whatever it may be. But the point
+is these models or these information you
+have in your head about these models
+need to go out into production and work
+for real life systems. And also if you
+want to work in AI, most AI jobs now are
+something called an AI engineer. And an
+AI engineer is a lot closer to software
+engineering than machine learning
+engineering. And what I mean by that is
+that if you're an AI engineer, you're
+not necessarily building models from
+scratch because a lot of the best models
+like Llama, Claude, Chad are kind of
+already built and it's very hard to beat
+them because one, you haven't got the
+computer resource. Two, the skills.
+Three, again, the infrastructure to
+train these large language models. You
+just can't do locally or by yourself. So
+most of the AI engineer role is simply
+taking these existing foundational
+modules that we call them and
+implementing solutions, products and
+building out the infrastructure around
+them to serve customers. So you really
+need to understand how you can
+productionize these AI algorithms and
+that's where you need to learn AI
+engineering. To learn AI engineering and
+how to productionize AI algorithms,
+there are two books I recommend. The
+first one is practical MLOps. This one
+is around more how you productionize
+traditional machine learning algorithms
+but is very useful in getting you to
+understand their underlying theory like
+docker containerization
+cloud systems you know all the things
+you need to understand how to ship
+machine learning solutions because
+that's kind of like the backbone behind
+shipping AI solutions right so that's
+the first book I recommend and the
+second one is the AI engineering
+textbook now this one is raved about so
+much and I can see for good reason
+because the person who wrote it, Chip
+Hun her name is, she's kind of like the
+leading AIM ML deployment or basically
+she's a leading practitioner about how
+to deploy AI and ML systems. So this
+book written you know by her is probably
+the best book you would get out there on
+AI engineering and it's literally called
+AI engineering. So, these are two books
+I recommend, practical MLOps and the AI
+engineering textbook that'll cover all
+your deployment needs and we'll also
+teach you how to do hands-on examples
+with deploying both machine learning
+models and AI models too. So, we went
+through a lot of resources in this video
+and it may seem quite intimidating to
+begin with, but don't worry too much. I
+mean, these resources are ones I've used
+over my journey and I've been studying
+this field for over 4 years and even so,
+I haven't gone through every single
+textbook end to end. The point is don't
+over complicate it. If you want to learn
+something, just pick one resources and
+start with it. But you certainly don't
+have to go through everything end to end
+like read every word on the textbook.
+Just learn the things that most relevant
+to you and then apply them and that's
+how you learn like I said at the
+beginning. So I wish you luck in your AI
+journey and I'll leave you by this tweet
+by Andre Kapathy which perfectly
+summarizes how to learn and study AI,
+how to become expert at anything. One,
+iteratively take on concrete projects
+and accomplish them depthwise. Learning
+on demand. Don't learn bottom up
+breathwise. Two, teach summarize
+everything you learn in your own words.
+Three, only compare yourself to younger
+you never to others. I think that last
+point is the most important thing you
+can take from this video and just go
+forth and happy learning. Oh, and one
+more thing. If you're after for some
+personalized coaching or like tailored
+advice, then I offer one-to-one coaching
+packages, CV reviews, road maps,
+basically anything that can help you get
+closer to your data science or machine
+learning journey. I'll leave link in
+description below about all my services.
+So, check that out if you're interested
+in speeding up the process or if you
+want some more, like I said, tailored
+advice about your situation. I'm sure I
+can help you.
